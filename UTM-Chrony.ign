@@ -44,9 +44,9 @@
           "wheel",
           "sudo"
         ],
-        "name": "tomster",
+        "name": "jota-jota",
         "sshAuthorizedKeys": [
-          "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAINkTKkJS7Id1WCyA5Klu/moLG9mP5hTC+v2qYqypMF1u contact@tommytran.io"
+          "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIAUa9utkby3AyzvMzs+sHa6qz7Sbyu0+tH1m62BCMTf3 jose.sosa.romero@gmail.com"
         ]
       }
     ]
